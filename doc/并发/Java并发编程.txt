@@ -1,0 +1,4 @@
+http://tutorials.jenkov.com/java-concurrency/locks.html
+
+
+Doug Lea并发编程文章全部译文 http://ifeve.com/doug-lea/
